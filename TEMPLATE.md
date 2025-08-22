@@ -1,29 +1,41 @@
-# vApp Submission: [Your Project Name]
+# vApp Submission: Symphony DeFi Vaults
 
 ## Verification
 ```yaml
-github_username: "your-username"
-discord_id: "123456789012345678"
+github_username: "SohibunNaum"
+discord_id: "1267146315221958751"
 timestamp: "2025-01-15"
 ```
 
 ## Developer
-- **Name**: Your Name
-- **GitHub**: @your-username
-- **Discord**: username#1234
-- **Experience**: Brief background
+- **Name**: Annauami
+- **GitHub**: @Sohibunnaum
+- **Discord**: airdrop_0610
+- **Experience**: 
+I have been actively involved in the Web3 ecosystem for over 4 years, focusing on community growth, digital communication, and content creation.
+My experience includes:
+	•	Working on blockchain projects such as IBC-related initiatives (2024).
+	•	Running validator nodes and supporting network testnets.
+	•	Contributing as a content creator on YouTube, educating communities about Web3 and blockchain technology.
+	•	Currently serving as an Ambassador for Symphony, where I support ecosystem expansion, onboarding new users, and sharing educational content about the protocol.
+
+This background allows me to bridge technical concepts with community adoption, making me a strong candidate to lead initiatives like this vApp proposal.
+
 
 ## Project
 
 ### Name & Category
-- **Project**: Your vApp Name
-- **Category**: identity/defi/social/gaming/infrastructure/other
+- **Project**: Symphony Defi Vaults
+- **Category**: defi
 
 ### Description
-What problem does your vApp solve? What does it do?
+Symphony DeFi Vaults is a decentralized application built on top of the **Symphony protocol by Orchestral Labs**.  
+The vApp allows users to deposit assets into automated vaults that generate yield through Symphony’s cross-chain liquidity infrastructure.  
+
+The goal is to provide **non-technical users** with easy access to DeFi yield opportunities, while leveraging Symphony’s low-cost, interoperable execution layer
 
 ### SL Integration  
-How will you use Soundness Layer? What specific SL features?
+We will leverage the Soundness Layer to secure and verify all cross-chain transactions in our DeFi vaults. By using its verification and deterministic finality features, deposits and withdrawals remain trustless and transparent. The SL also provides built-in protection against invalid state transitions and double spending, ensuring reliability, while its composability allows seamless integration with other Symphony vApps in the future.
 
 ## Technical
 
@@ -31,33 +43,29 @@ How will you use Soundness Layer? What specific SL features?
 High-level system design and approach
 
 ### Stack
-- **Frontend**: React/Vue/etc
-- **Backend**: Rust/Node.js/Python/etc  
+- **Frontend**: React
+- **Backend**: Node.js  
 - **Blockchain**: SL + others
-- **Storage**: Database/WALRUS/IPFS/etc
+- **Storage**: Database
 
 ### Features
-1. Core feature 1
-2. Core feature 2  
-3. Core feature 3
+- **Cross-chain deposits** using Symphony’s interoperability. 
+- **Low fees** thanks to Symphony’s scalable execution model.
 
 ## Timeline
 
 ### PoC (2-4 weeks)
 - [ ] Basic functionality
 - [ ] SL integration
-- [ ] Simple UI
+- [•] Simple UI
 
 ### MVP (4-8 weeks)  
 - [ ] Full features
-- [ ] Production ready
+- [•] Production ready
 - [ ] User testing
 
-## Innovation
-What makes this unique? Why will people use it?
-
 ## Contact
-Preferred contact method and where you'll share updates.
+saadmarwah0610@gmail.com
 
 
 **Checklist before submitting:**
